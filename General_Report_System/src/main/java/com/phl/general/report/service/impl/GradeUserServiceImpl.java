@@ -15,7 +15,6 @@ import com.phl.common.exception.BusException;
 import com.phl.general.report.common.dto.GradeUserDto;
 import com.phl.general.report.common.dto.GradeUserRequestDto; // Sending request content
 import com.phl.general.report.common.dto.GradeUserResponseDto;// Receiving response from service
-import com.phl.general.report.common.dto.MofUserDto;
 import com.phl.general.report.common.constant.GradeMessageList;// Putting grade message string for sending
 import com.phl.general.report.service.GradeUserService;
 
